@@ -11,7 +11,7 @@ import { PrismaService } from './prisma.service';
   ],
 })
 export class PrismaModule {
-    static forRoot(entities = [], options?): DynamicModule {
+    static forRoot(): DynamicModule {
       return {
         module: PrismaModule,
         providers: [PrismaService],
