@@ -48,4 +48,4 @@ http://localhost:3000
 
 ## Points not covered
 - Volumes not used for persistent storage of data (but can be used via docker-compose.yml file)
-- Separate branches can be created for frontend and backend pipeline, so that image updated only during update
+- Separate branches can be created for frontend and backend pipeline, so that image updates only during update
