@@ -5,7 +5,7 @@
 A simple ToDo application with frontend in Next.js and backend in Nest.js 
 
 ## Prerequisites
-* Docker Enginer
+* Docker Engine
 * Docker compose
 
 ## Command to run Project
